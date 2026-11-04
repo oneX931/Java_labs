@@ -1,0 +1,15 @@
+*.class
+*.jar
+target/
+out/
+
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+.DS_Store
+Thumbs.db
+
+*.log
